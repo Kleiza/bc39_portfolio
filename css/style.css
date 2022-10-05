@@ -264,7 +264,7 @@ header .logo span {
 /* footer */
 
 #footer{
-    background: #222;
+    background: rgb(27, 27, 27);
 }
 
 .footer__content{
